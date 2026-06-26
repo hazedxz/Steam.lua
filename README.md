@@ -68,7 +68,5 @@ The frontend (JS) invokes backend procedures utilizing Millennium's bridge proto
 
 https://github.com/user-attachments/assets/a1ba7a2d-72e2-4ba2-bc10-c57e74759d45
 
-
-
 ```javascript
 Millennium.callServerMethod("luatools", "FunctionName", { ...args })
