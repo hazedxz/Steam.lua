@@ -66,7 +66,7 @@ The frontend (JS) invokes backend procedures utilizing Millennium's bridge proto
 
 ## Tuto
 
-https://github.com/user-attachments/assets/9a47756c-1ba2-4abc-bee3-87338a38d2e0
+https://github.com/user-attachments/assets/a1ba7a2d-72e2-4ba2-bc10-c57e74759d45
 
 
 
