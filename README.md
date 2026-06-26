@@ -64,8 +64,8 @@ User settings are saved in data/settings.json (backend) and exposed to the user 
 ## Frontend ↔ Backend Communication
 The frontend (JS) invokes backend procedures utilizing Millennium's bridge protocol[cite: 2]:
 
+## Tuto
+https://www.youtube.com/watch?v=DcSzjNyJ5cA
+
 ```javascript
 Millennium.callServerMethod("luatools", "FunctionName", { ...args })
-
-## Tuto 
-https://www.youtube.com/watch?v=DcSzjNyJ5cA
